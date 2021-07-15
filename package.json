@@ -1,5 +1,5 @@
 {
-  "name": "@ddd/core",
+  "name": "ddd-core",
   "version": "1.0.0",
   "description": "Universal classes to allow people to use DDD principles in Javascript projects",
   "main": "lib/index.js",
